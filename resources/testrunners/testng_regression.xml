@@ -17,15 +17,15 @@
 	</test>
 	
 	
+		<test name="Open Cart Accounts Page page test">
+		<classes>
+			<class name="com.qa.opencart.tests.AccountsPageTest" />
+		</classes>
+	</test>
+	
 	<test name="Open Cart product info page test">
 		<classes>
 			<class name="com.qa.opencart.tests.ProductInfoPageTest" />
-		</classes>
-	</test>
-
-	<test name="Open Cart Accounts Page page test">
-		<classes>
-			<class name="com.qa.opencart.tests.AccountsPageTest" />
 		</classes>
 	</test>
 
@@ -40,6 +40,6 @@
 		<classes>
 			<class name="com.qa.opencart.tests.RegistrationPageTest" />
 		</classes>
-	</test> <!-- Test -->
+	</test>
 
 </suite>
