@@ -23,23 +23,23 @@
 		</classes>
 	</test>
 	
-	<!--<test name="Open Cart product info page test">
+	<test name="Open Cart product info page test">
 		<classes>
 			<class name="com.qa.opencart.tests.ProductInfoPageTest" />
 		</classes>
-	</test>-->
+	</test>
 
 
-	<!--<test name="Open Cart Login page invalid test">
+	<test name="Open Cart Login page invalid test">
 		<classes>
 			<class name="com.qa.opencart.tests.LoginPageInvalidTest" />
 		</classes>
-	</test>-->
+	</test>
 
-	<!--<test name="Open Cart Login page Registration page test">
+	<test name="Open Cart Login page Registration page test">
 		<classes>
 			<class name="com.qa.opencart.tests.RegistrationPageTest" />
 		</classes>
-	</test>-->
+	</test>
 
 </suite>
