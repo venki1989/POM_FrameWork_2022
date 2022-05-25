@@ -20,6 +20,7 @@ public class LoginPage {
 	private By forgotPwd = By.xpath("//div[@class='form-group']//a[contains(text(), 'Forgotten Password')]");
 	private By registerLink = By.xpath("//div/a[contains(text(), 'Register')]");
 	private By loginErrorMessg = By.cssSelector("div.alert.alert-danger.alert-dismissible");
+	private By logout = By.linkText("Logout");
 
 	public LoginPage(WebDriver driver) {
 		this.driver = driver; // initialze the private driver and pass it within the class
