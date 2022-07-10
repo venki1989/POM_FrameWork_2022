@@ -27,7 +27,7 @@ public class LoginPage {
 		eleutil = new ElementUtil(driver);
 	}
 
-	@Step("This test is to verify Login Page Tile")
+	//@Step("This test is to verify Login Page Tile")
 	public String getLoginPageTile() {
 		return eleutil.waitForTitleIs(Constants.DEFAULT_TIME_OUT, Constants.LOGIN_PAGE_TITLE);
 

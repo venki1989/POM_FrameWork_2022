@@ -14,6 +14,7 @@ import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
 
 public class AccountsPageTest extends BaseTest {
+	
     @Description("PreCondition - User should be logged into application with username {0} and password {1}")
 	@BeforeClass
 	public void accPageSetup() {
