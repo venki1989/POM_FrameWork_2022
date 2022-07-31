@@ -8,9 +8,6 @@ public class Errors {
 
 	public static final String LOGIN_PAGE_ERROR_MESSAGE = "Warning: No match for E-Mail Address and/or Password.";
 	
-	
-	
-	
 	/**
 	 * FrameWork assertion message
 	 *
